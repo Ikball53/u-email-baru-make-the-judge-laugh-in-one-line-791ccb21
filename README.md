@@ -1,0 +1,7 @@
+[![make.fun · u-email-baru-make-the-judge-laugh-in-one-line-791ccb21](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/Ikball53/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/Ikball53/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=makefun&utm_medium=badge&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+
+# The Roomba's Silent Verdict
+
+A one-line joke for the make.fun "Make the Judge Laugh in One Line" bounty. A tiny Python script (stdlib only) writes a single deadpan line to `entry.txt`: a Roomba asked for one small favour ends up stuck under the couch for three days — and the punchline is that it is the one doing the judging. Deterministic output, no randomness, no dependencies.
